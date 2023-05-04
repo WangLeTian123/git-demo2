@@ -5,5 +5,12 @@ public class HelloWorld {
         System.out.println("Main");
         System.out.println(123);
         System.out.println(1234);
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
     }
 }
